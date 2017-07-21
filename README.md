@@ -7,4 +7,5 @@ papers about event, sentence, short text, causality in representation, classific
 3. [ ] 3. **从语义网到知识图谱——语义技术工程化的回顾与反思**  *鲍捷* &emsp;[url](https://zhuanlan.zhihu.com/p/22811120?utm_source=wechat_session&utm_medium=social)
 4. [ ] 4. **Causal Effect Inference with Deep Latent-Variable Models**  *Louizos, Christos, et al.* arXiv preprint arXiv:1705.08821 (2017).&emsp;[paper](https://arxiv.org/pdf/1705.08821)
 5. [ ] 5. **Learning Sentence Representation with Guidance of Human Attention**  *(IJCAI 2017)* &emsp;*Wang, Shaonan, Jiajun Zhang, and Chengqing Zong* arXiv preprint arXiv:1609.09189 &emsp;[paper](https://arxiv.org/pdf/1609.09189) &emsp;[PaperWeekly 14期](https://mp.weixin.qq.com/s/VHQEtiVjv_N9IN_bvpNaPw)
+6. [ ] 6. **Learning Prototypical Event Structure from Photo Albums** *(ACL 2016)* &emsp;Antoine Bosselut, Jianfu Chen, David Warren, Hannaneh Hajishirzi, and Yejin Choi &emsp;[paper](https://homes.cs.washington.edu/~yejin/Papers/acl16_proto.pdf)
 
