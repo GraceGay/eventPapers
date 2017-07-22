@@ -11,24 +11,25 @@
 
 7. [ ] 7. **Zero-Shot Transfer Learning for Event Extraction**  &emsp;(arxiv 2017)&emsp;Lifu Huang, Heng Ji, Clare Voss and Kyunghyun Cho &emsp;[paper](https://arxiv.org/pdf/1707.01066.pdf)
 8. [ ] 8. **Liberal Event Extraction and Event Schema Induction**  &emsp;(ACL 2016) &emsp; Lifu Huang, Taylor Cassidy, Xiaocheng Feng, Heng Ji, Clare R Voss, Jiawei Han and Avirup Sil.&emsp;[paper](http://nlp.cs.rpi.edu/paper/liberalie2016.pdf)&emsp; \*** 
-9. [ ] 9. **A Language-Independent Neural Network for Event Detection**  &emsp;(ACL 2016) &emsp;Xiaocheng Feng, Lifu Huang, Duyu Tang, Bing Qin, Heng Ji and Ting Liu &emsp;[paper](http://nlp.cs.rpi.edu/paper/dnnevent2016.pdf)\***
+9. [ ] 9. **A Language-Independent Neural Network for Event Detection**  &emsp;(ACL 2016) &emsp;Xiaocheng Feng, Lifu Huang, Duyu Tang, Bing Qin, Heng Ji and Ting Liu &emsp;[paper](http://nlp.cs.rpi.edu/paper/dnnevent2016.pdf)&emsp;\***
 10. [ ] 10. **Optimized Event Storyline Generation based on Mixture-Event-Aspect Model** &emsp;(EMNLP 2013) &emsp; Lifu Huang, Lian'en Huang &emsp;[paper](http://www.aclweb.org/anthology/D13-1068)
 11. [ ] 11. **Improving Event Extraction via Cross-Model Integration**  &emsp;(ACM Multimedia'2017) &emsp; Tongtao Zhang, Spencer Whitehead, Hanwang Zhang, Hongzhi Li, Joseph Ellis, Lifu Huang, Wei Liu, Heng Ji and Shih-Fu Chan
-12. [ ] 12. **Joint Extraction of Events and Entities within a Document Context** &emsp;(NAACL 2016) &emsp;B. Yang and T. Mitchell [paper](http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf)
+12. [ ] 12. **Joint Extraction of Events and Entities within a Document Context** &emsp;(NAACL 2016) &emsp;B. Yang and T. Mitchell&emsp; [paper](http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf)
 13. [ ] 13. **Improving Feature-Based Biomedical Event Extraction System by IntegratingArgument Information** &emsp;(ACL 2017)&emsp;Lishuang Li, Yiwen Wang, Degen Huang &emsp;[paper](http://www.aclweb.org/anthology/W13-2015)
 14. [ ] 14. **The stages of event extraction** &emsp;David Ahn
-15. [ ] 15. **Refining Event Extraction Through Cross-document Inference** &emsp;(ACL 2016 workshop)&emsp;Yu Hong, Tongtao Zhang, Tim O'Gorman, Sharone Horowit-Hendler, Heng Ji and Martha Palmer [paper](http://www.aclweb.org/website/old_anthology/P/P08/P08-1.pdf#page=298)
+15. [ ] 15. **Refining Event Extraction Through Cross-document Inference** &emsp;(ACL 2016 workshop)&emsp;Yu Hong, Tongtao Zhang, Tim O'Gorman, Sharone Horowit-Hendler, Heng Ji and Martha Palmer&emsp; [paper](http://www.aclweb.org/website/old_anthology/P/P08/P08-1.pdf#page=298)
 16. [ ] 16. **Using cross-entity inference to improve event extraction**&emsp;(ACL 2011)&emsp;Yu Hong Jianfeng Zhang Bin Ma Jianmin Yao Guodong Zhou Qiaoming Zhu &emsp; [paper](http://www.aclweb.org/anthology/P11-1113)
 17. [ ] 17. **Joint Event Extraction via Structured Prediction with Global Features** &emsp;(ACL 2013)&emsp;Qi Li Heng Ji Liang Huang &emsp;[paper](http://anthology.aclweb.org/P/P13/P13-1008.pdf)&emsp;\***
 18. [ ] 18. **A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification**&emsp;(AAAI 2016)&emsp;Shulin Liu, Kang Liu, Shizhu He, Jun Zhao &emsp;[paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/AAAI2016Shulin.pdf)
 19. [ ] 19. **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks** &emsp;(ACL 2015)&emsp;Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao &emsp;[paper](https://pdfs.semanticscholar.org/ca70/480f908ec60438e91a914c1075b9954e7834.pdf)&emsp;[material](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi33eHZkpzVAhVHOJQKHRSzAk8QFggyMAE&url=%68%74%74%70%3a%2f%2f%62%6c%6f%67%2e%73%63%69%65%6e%63%65%6e%65%74%2e%63%6e%2f%68%6f%6d%65%2e%70%68%70%3f%6d%6f%64%3d%61%74%74%61%63%68%6d%65%6e%74%26%66%69%6c%65%6e%61%6d%65%3d%45%76%65%6e%74%25%32%30%45%78%74%72%61%63%74%69%6f%6e%25%41%33%25%42%41%25%43%41%25%43%32%25%42%43%25%46%45%25%42%33%25%45%39%25%43%38%25%41%31%25%32%30%52%45%44%25%32%30%31%36%30%37%32%37%2e%70%64%66%26%69%64%3d%38%37%39%35%36&usg=AFQjCNHvb8hNFUIfJ9Ddq6FF9rAkKfvX0w)&emsp;\***
-20. [ ] 20. **Leveraging FrameNet to Improve Automatic Event Detection** &emsp;(ACL 2016)&emsp;Shulin Liu, Yubo Chen, Shizhu He, Kang Liu and Jun Zhao&emsp;[paper](http://www.aclweb.org/anthology/P16-1201)\***
+20. [ ] 20. **Leveraging FrameNet to Improve Automatic Event Detection** &emsp;(ACL 2016)&emsp;Shulin Liu, Yubo Chen, Shizhu He, Kang Liu and Jun Zhao&emsp;[paper](http://www.aclweb.org/anthology/P16-1201)&emsp;\***
 21. [ ] 21. **Modeling Skip-Grams for Event Detection with Convolutional Neural Networks** &emsp;(ACL 2016)Thien Huu Nguyen, Ralph Grishman&emsp;[paper](http://www.aclweb.org/anthology/D16-1085)&emsp;\***
 22. [ ] 22. **Joint Event Extraction via Recurrent Neural Networks** &emsp;(ACL 2017)&emsp;Thien Huu Nguyen, Kyunghyun Cho and Ralph Grishman &emsp;[paper](http://www.aclweb.org/anthology/N16-1034)&emsp;[code](https://github.com/anoperson/jointEE-NN)
-23. [ ] 23. **Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms** &emsp;(ACL 2017)&emsp;[paper](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5rpe2lZzVAhUMjZQKHRLyB_wQFggrMAA&url=%68%74%74%70%3a%2f%2f%69%72%2e%69%61%2e%61%63%2e%63%6e%2f%62%69%74%73%74%72%65%61%6d%2f%31%37%33%32%31%31%2f%31%34%35%32%32%2f%31%2f%61%63%6c%32%30%31%37%2e%70%64%66&usg=AFQjCNFnxb9jvxFdESFE5YVbND8-Df3lRQ)&emsp;[material](https://zhuanlan.zhihu.com/p/27762611)
-24. [ ] 24. **Automatically Labeled Data Generation for Large Scale Event Extraction** &emsp;(ACL       2017)&emsp;[paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Chen.pdf)&esmp;\***
+23. [ ] 23. **Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms** &emsp;(ACL 2017)&emsp;Shulin Liu1, Yubo Chen, Kang Liu and Jun Zhao&emsp;[paper](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5rpe2lZzVAhUMjZQKHRLyB_wQFggrMAA&url=%68%74%74%70%3a%2f%2f%69%72%2e%69%61%2e%61%63%2e%63%6e%2f%62%69%74%73%74%72%65%61%6d%2f%31%37%33%32%31%31%2f%31%34%35%32%32%2f%31%2f%61%63%6c%32%30%31%37%2e%70%64%66&usg=AFQjCNFnxb9jvxFdESFE5YVbND8-Df3lRQ)&emsp;[material](https://zhuanlan.zhihu.com/p/27762611)
+24. [ ] 24. **Automatically Labeled Data Generation for Large Scale Event Extraction** &emsp;(ACL  2017)&emsp;Yubo Chen, Shulin Liu
+, Xiang Zhang, Kang Liu and Jun Zhao &emsp; [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Chen.pdf)&emsp;\***
 25. [ ] 25. **English Event Detection With Translated Language Features** &emsp;(ACL 2017 short) &emsp;Sam Wei, Igor Korostil, Joel Nothman and Ben Hachey.
-26. [ ] 26. **Determining Whether and When People Participate in the Events They Tweet About** 
+26. [ ] 26. **Determining Whether and When People Participate in the Events They Tweet About**&emsp;(ACL 2017)&emsp; krishna sanagavarapu, Alakananda Vempala and Eduardo Blanco
 27. [ ] 27. **Twitinfo: aggregating and visualizing microblogs for event exploration** &emsp;(SIGCHI 2011)&emsp;Marcus A, Bernstein M S, Badar O, et al&emsp;[paper](https://dspace.mit.edu/openaccess-disseminate/1721.1/72370)
 28. [ ] 28. **Using document level cross-event inference to improve event extraction** &emsp;(ACL 2010)&emsp;Liao S, Grishman R.&emsp;[paper](http://www.anthology.aclweb.org/P/P10/P10-1081.pdf)
 29. [ ] 29. **Cross-document Event Extraction and Tracking:Task, Evaluation, Techniques and Challenges**&emsp;(RANLP 2009)&emsp;[paper]( http://www.aclweb.org/anthology/R09-1032)
@@ -39,25 +40,25 @@
 33. [ ] 33. **Discovering Concept-level Event Associations from a Text Stream** &emsp;(Natural Language Processing and Chinese Computing 2016)&emsp;Tao Ge, Lei Cui, Heng Ji, Baobao Chang, Zhifang Sui and Ming Zhou &emsp;[paper](http://nlp.cs.rpi.edu/paper/eventassociation2016.pdf)
 34. [ ] 34. **Cross-genre Event Extraction with Knowledge Enrichment** &emsp;(NAACL-HLT 2016)&emsp;Hao Li and Heng Ji&emsp;[slides](http://nlp.cs.rpi.edu/paper/crossgenreevent2016.ppt)&emsp;[paper](http://nlp.cs.rpi.edu/paper/crossgenreevent2016.pdf)
 35. [ ] 35. **A Comparison of Event Representations in DEFT** &emsp; (NAACL 2016)&emsp;Ann Bies, Zhiyi Song, Jeremy Getman, Joe Ellis, Justin Mott, Stephanie Strassel, Martha Palmer, Teruko Mitamura, Marjorie Freedman, Heng Ji and Tim O'Gorman &emsp; [paper](http://nlp.cs.rpi.edu/paper/eernaacl2016.pdf)
-36. [ ] 36. **Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles** (ACL 2015)&emsp;Tao Ge, Wenzhe Pei, Heng Ji, Sujian Li, Baobao Chang and Zhifang Sui &emsp;[demo](http://nlp.cs.rpi.edu/demo/protestchronicle.mov)&emsp;[paper](http://nlp.cs.rpi.edu/paper/chronicle.pdf)
-37. [ ] 37. **Cross-document Event Coreference Resolution based on Cross-media Features** (EMNLP 2015)&emsp;Tongtao Zhang, Hongzhi Li, Heng Ji and Shih-Fu Chang&emsp;[paper](http://nlp.cs.rpi.edu/paper/crossmedia15.pdf)
-38. [ ] 38. **Knowledge Enrichment for Event Extraction from Tweets** (CCICADA Technical Book) Hao Li and Heng Ji
+36. [ ] 36. **Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles**&emsp; (ACL 2015)&emsp;Tao Ge, Wenzhe Pei, Heng Ji, Sujian Li, Baobao Chang and Zhifang Sui &emsp;[demo](http://nlp.cs.rpi.edu/demo/protestchronicle.mov)&emsp;[paper](http://nlp.cs.rpi.edu/paper/chronicle.pdf)
+37. [ ] 37. **Cross-document Event Coreference Resolution based on Cross-media Features**&emsp; (EMNLP 2015)&emsp;Tongtao Zhang, Hongzhi Li, Heng Ji and Shih-Fu Chang&emsp;[paper](http://nlp.cs.rpi.edu/paper/crossmedia15.pdf)
+38. [ ] 38. **Knowledge Enrichment for Event Extraction from Tweets** &emsp;(CCICADA Technical Book) &emsp;Hao Li and Heng Ji
 39. [ ] 39. **Incremental Learning from News Events** &emsp;(KBS 2015) &emsp;Linmei Hu, Chao Shao, Juanzi Li and Heng Ji
 40. [ ] 40. **Seed-based Event Trigger Labeling: How far can event descriptions get us?** &emsp;(ACL 2015)&emsp;Ofer Bronstein, Ido Dagan, Qi Li, Heng Ji and Anette Frank &emsp;[seed-list](https://www.dropbox.com/s/e8j4ylbdbq0zwxi/ShortACL2015-SeedLists-Final.pdf?dl=0)&emsp;[paper](http://nlp.cs.rpi.edu/paper/trigger.pdf)
 41. [ ] 41. **Social Event Extraction: Task, Challenges and Techniques** &emsp;(ASONAM 2015)&emsp;Hao Li, Lin Zhao and Heng Ji &emsp;[paper](http://nlp.cs.rpi.edu/paper/socialevent.pdf)&emsp;\*
 42. [ ] 42. **Knowledge Enrichment for Event Extraction** &emsp;(PHD thesis)&emsp;Hao Li[slides](http://nlp.cs.rpi.edu/paper/hao_thesis.ppt)&emsp;[paper](http://nlp.cs.rpi.edu/paper/hao_thesis.pdf)&emsp;\***
 43. [ ] 43. **Joint Information Extraction**&emsp;(PHD thesis)&emsp;Qi Li &emsp;[slides](http://nlp.cs.rpi.edu/paper/qi_thesis.ppt)&emsp;[thesis](http://nlp.cs.rpi.edu/paper/qi_thesis.pdf)&emsp;\***
 44. [ ] 44. **EventCube: Multi-Dimensional Search and Mining of Structured and Text Data**&emsp;(KDD 2013 demo)&emsp;Fangbo Tao, Kin Hou Lei, Jiawei Han, Chengxiang Zhai, Xiao Cheng, Marina Danielevsky, Nihit Desai, Bolin Ding, Jing Ge, Heng Ji, Rucha Kanade, Anne Kao, Qi Li, Yanen Li, Cindy Xide Lin, Jialiu Liu, Nikunj Oza, Ashok Srivastava, Rod Tjoelker, Chi Wang, Duo Zhang, Bo Zhao &emsp;[paper](http://nlp.cs.rpi.edu/paper/kdddemo.pdf)&emsp;\***
-45. [ ] 45. **Exploiting Background Information Networks to Enhance Bilingual Event Extraction Through Topic Modeling** &emsp;(IMMM 2011) Hao Li, Heng Ji, Hongbo Deng and Jiawei Han &emsp;[paper](http://nlp.cs.rpi.edu/paper/event_immm.pdf)
-46. [ ] 46. **Domain-Independent Novel Event Discovery and Semi-Automatic Event Annotation** &emsp;(PACLIC 2010)&emsp;Hao Li, Xiang Li, Heng Ji and Yuval Marton &emsp;[paper](http://nlp.cs.rpi.edu/paper/eventdiscovery.pdf) &emsp;\**
-47. [ ] 47.**Annotating Event Chains for Carbon Sequestration Literature** &emsp;(LREC 2010)&emsp;Heng Ji, Xiang &emsp;[paper](http://nlp.cs.rpi.edu/paper/coref-feature.pdf)
+45. [ ] 45. **Exploiting Background Information Networks to Enhance Bilingual Event Extraction Through Topic Modeling** &emsp;(IMMM 2011) &emsp;Hao Li, Heng Ji, Hongbo Deng and Jiawei Han &emsp;[paper](http://nlp.cs.rpi.edu/paper/event_immm.pdf)\***
+46. [ ] 46. **Domain-Independent Novel Event Discovery and Semi-Automatic Event Annotation** &emsp;(PACLIC 2010)&emsp;Hao Li, Xiang Li, Heng Ji and Yuval Marton &emsp;[paper](http://nlp.cs.rpi.edu/paper/eventdiscovery.pdf) &emsp;\***
+47. [ ] 47.**Annotating Event Chains for Carbon Sequestration Literature** &emsp;(LREC 2010)&emsp;Heng Ji, Xiang &emsp;[paper](http://nlp.cs.rpi.edu/paper/coref-feature.pdf)&emsp;\***
 48. [ ] 48. **Predicting Unknown Time Arguments based on Cross-event propagation**&emsp;(ACL-IJCNLP 2009)&emsp;Prashant Gupta and Heng Ji&emsp;[paper](http://nlp.cs.rpi.edu/paper/time.pdf)
 49. [ ] 49. **Graph-based Event Coreference Resolution**(ACL-IJCNLP 2009 workshop)&emsp;Zheng Chen and Heng Ji &emsp;[paper](http://nlp.cs.rpi.edu/paper/event_graph.pdf)
 50. [ ] 50. **Unsupervised Cross-lingual Predicate Cluster Acquisition to Improve Bi-lingual Event Extraction/Weakly-Supervised Cross-lingual Predicate Cluster Acquisition
 to Improve Bilingual Event Extraction** ( HLT-NAACL 2009 workshop)&emsp;Heng Ji&emsp;[paper](http://nlp.cs.rpi.edu/paper/hlt09-lexical.pdf)&emsp;\***
 51. [ ] 51. **Can One Language Bootstrap the Other: A Case Study on Event Extraction** &emsp;(HLT-NAACL 2009)&emsp;Zheng Chen and Heng Ji&emsp;[paper](http://nlp.cs.rpi.edu/paper/hlt09-cotrain.pdf)
 52. [ ] 52. **Language Specific Issue and Feature Exploration in Chinese Event Extraction** &emsp;(HLT-NAACL 2009)&emsp;Zheng Chen and Heng Ji&emsp;[paper](http://nlp.cs.rpi.edu/paper/hlt09-event.pdf)
-53. [ ] 53. **Refining Event Extraction Through Unsupervised Cross-document Inference** &emsp;(ACL 2008) &emsp;Heng Ji and Ralph Grishman*emsp;[paper](http://www.cs.nyu.edu/~hengji/CrossDocIE_Ji.pdf)&emsp;\***
+53. [ ] 53. **Refining Event Extraction Through Unsupervised Cross-document Inference** &emsp;(ACL 2008) &emsp;Heng Ji and Ralph Grishman*emsp;[paper](http://www.cs.nyu.edu/~hengji/CrossDocIE_Ji.pdf)&emsp;&emsp;\***
 54. [ ] 54. **RBPB: Regularization-Based Pattern Balancing Method for Event Extraction**&emsp;(ACL 2016)&emsp;Lei Sha; Jing Liu; Chin-Yew Lin; Sujian Li; Baobao Chang; Zhifang Sui&emsp;[paper](http://aclweb.org/anthology/P16-1116)&emsp;\***
 55. [ ] 55. **Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling** &emsp;(ACL 2016)&emsp; Deyu Zhou; Tianmeng Gao; Yulan He&emsp;[paper](https://pdfs.semanticscholar.org/2e5c/46c26c590af0b9883df1453f5f4e521d7418.pdf)&emsp;\**
 56. [ ] 56. **Identifying Potential Adverse Drug Events in Tweets Using Bootstrapped Lexicons** &emsp;(ACL 2016 student research workshop)&emsp;Eric Benzschawel&emsp;[paper](https://www.aclweb.org/anthology/P/P16/P16-3003.pdf)
@@ -89,9 +90,10 @@ to Improve Bilingual Event Extraction** ( HLT-NAACL 2009 workshop)&emsp;Heng Ji&
 
 
 
-
 # relation
 1. [ ] 1.**Review: Textual Relation Extraction** &emsp;(Journal of Electronics [Chinese] 2016) &emsp;Xiaocheng Feng, Duyu Tang, Bing Qin, Ting Liu 
 2. [ ] 2.**Effective Deep Memory Networks for Distant Supervised Relation Extraction** &emsp;(IJCAI 2017) &emsp; Xiaocheng Feng, Jiang Guo, Bing Qin, Ting Liu, Yongjie Liu 
+
+
 
 
