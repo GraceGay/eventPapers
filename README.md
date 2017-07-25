@@ -86,7 +86,7 @@ to Improve Bilingual Event Extraction** ( HLT-NAACL 2009 workshop)&emsp;Heng Ji&
 78. [ ] 78. **Cross-narrative Temporal Ordering of Medical Events**
 &emsp;(ACL 2014)&emsp;Preethi Raghavan; Eric Fosler-Lussier; Noémie Elhadad; Albert M. Lai&emsp;[paper](http://www.aclweb.org/anthology/P/P14/P14-1094.pdf)
 79. [ ] 79. **Event Detection and Co-reference with Minimal Supervision**&emsp; (EMNLP 2016)&emsp; Haoruo Peng; Yangqiu Song; Dan Roth&emsp;[paper](http://aclweb.org/anthology/D/D16/D16-1038.pdf)&emsp;\***
-
+80. [ ] 80. **A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques** &emsp;(Arxiv 20170701)&emsp;[paper](https://arxiv.org/abs/1707.01700) &emsp;\***
 
 
 
