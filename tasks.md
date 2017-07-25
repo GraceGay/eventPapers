@@ -17,3 +17,4 @@ Natural Language Inference Data** &emsp;(arxiv 1705.02 FAIR) &emsp;Alexis Connea
 * [standford大牛karpathy的一篇博客Hacker's guide to Neural Networks,具体的编程例子手把手教你算梯度](http://karpathy.github.io/neuralnets/)
 * [知乎：在caffe中如何计算卷积](https://www.zhihu.com/question/28385679)
 * [知乎：深度学习caffe代码怎么读](https://www.zhihu.com/question/27982282)
+* [github源码：腾讯优图纯C++代码ncnn](https://github.com/Tencent/ncnn)
