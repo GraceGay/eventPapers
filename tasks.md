@@ -18,3 +18,7 @@ Natural Language Inference Data** &emsp;(arxiv 1705.02 FAIR) &emsp;Alexis Connea
 * [知乎：在caffe中如何计算卷积](https://www.zhihu.com/question/28385679)
 * [知乎：深度学习caffe代码怎么读](https://www.zhihu.com/question/27982282)
 * [github源码：腾讯优图纯C++代码ncnn](https://github.com/Tencent/ncnn)
+
+## ontology learning, ontology mapping
+researchist
+* [唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
