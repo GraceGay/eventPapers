@@ -22,3 +22,6 @@ Natural Language Inference Data** &emsp;(arxiv 1705.02 FAIR) &emsp;Alexis Connea
 ## ontology learning, ontology mapping
 researchist
 * [唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
+
+## PLP
+* **tutorial** [link](http://ds.ing.unife.it/~gcota/plptutorial/#tutorial)
