@@ -27,5 +27,5 @@ researchist
 * **tutorial** [link](http://ds.ing.unife.it/~gcota/plptutorial/#tutorial)
 
 ## WS(The Winograd Schema Challenge)[evaluation data](http://www.cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WSCollection.xml)
-state-of-art 70% Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A
+state-of-art 70% IJCAI 2017 Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A
 Set of Winograd Schema Problems 
