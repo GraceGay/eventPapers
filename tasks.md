@@ -28,4 +28,7 @@ researchist
 
 ## WS(The Winograd Schema Challenge)[evaluation data](http://www.cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WSCollection.xml)
 state-of-art 70% IJCAI 2017 Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A
-Set of Winograd Schema Problems 
+Set of Winograd Schema Problems (刘权)
+### 相关学者
+* [Ernest Davis NYU](http://www.cs.nyu.edu/faculty/davise/)
+* [刘权 中科大](http://home.ustc.edu.cn/~quanliu/)
