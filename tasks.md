@@ -32,3 +32,8 @@ Set of Winograd Schema Problems (刘权)
 ### 相关学者
 * [Ernest Davis NYU](http://www.cs.nyu.edu/faculty/davise/)
 * [刘权 中科大](http://home.ustc.edu.cn/~quanliu/)
+
+## Discourse analysis
+state-of-art acc:63.2% F1:62.6%  ACL 2017 Joint Modeling of Content and Discourse Relations in Dialogues(Kechen Qin,Lu Wang,Joseph Kim)
+
+
