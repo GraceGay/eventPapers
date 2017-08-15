@@ -36,4 +36,5 @@ Set of Winograd Schema Problems (刘权)
 ## Discourse analysis
 state-of-art acc:63.2% F1:62.6%  ACL 2017 Joint Modeling of Content and Discourse Relations in Dialogues(Kechen Qin,Lu Wang,Joseph Kim)
 
-
+## Keyphrase Extraction
+ AAAI 2016  on-par with state-of-the-art F1 0.28 Incorporating Expert Knowledge into Keyphrase Extraction
