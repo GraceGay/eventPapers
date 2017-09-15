@@ -2,6 +2,8 @@
 # Tasks
 
 ----
+## Event 
+[Ruihong Huang] (http://faculty.cse.tamu.edu/huangrh/) Assistant Professor at Texas A&M University 
 ## Negation and Speculation
 state of art:
 
@@ -38,3 +40,4 @@ state-of-art acc:63.2% F1:62.6%  ACL 2017 Joint Modeling of Content and Discours
 
 ## Keyphrase Extraction
  AAAI 2016  on-par with state-of-the-art F1 0.28 Incorporating Expert Knowledge into Keyphrase Extraction
+ ACL 2017 Deep Keyphrase Generation  [code](https://github.com/GraceGay/seq2seq-keyphrase)
