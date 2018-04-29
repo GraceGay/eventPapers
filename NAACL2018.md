@@ -1,97 +1,86 @@
-A NOVEL EMBEDDING MODEL FOR KNOWLEDGE BASE COMPLETION BASED ON CONVOLUTIONAL NEURAL NETWORK 
-Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen and Dinh Phung
+A Novel Embedding Model For Knowledge Base Completion Based On Convolutional Neural Network **
+Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen And Dinh Phung
 
+A Transition-Based Algorithm For Unrestricted Amr Parsing 
+David Vilares And Carlos Gómez-Rodríguez
 
-A TRANSITION-BASED ALGORITHM FOR UNRESTRICTED AMR PARSING 
-David Vilares and Carlos Gómez-Rodríguez
+Abstract Meaning Representation For Paraphrase Detection 
+Fuad Issa, Marco Damonte, Shay B. Cohen, Xiaohui Yan And Yi Chang
 
-ABSTRACT MEANING REPRESENTATION FOR PARAPHRASE DETECTION 
-Fuad Issa, Marco Damonte, Shay B. Cohen, Xiaohui Yan and Yi Chang
+Accurate Text-Enhanced Knowledge Graph Representation Learning 
+Bo An, Xianpei Han And Le Sun
 
-ACCURATE TEXT-ENHANCED KNOWLEDGE GRAPH REPRESENTATION LEARNING 
-Bo An, Xianpei Han and Le Sun
+Distributional Inclusion Vector Embedding For Unsupervised Hypernymy Detection **
+Haw-Shiuan Chang, Ziyun Wang, Luke Vilnis And Andrew Mccallum
 
-DISTRIBUTIONAL INCLUSION VECTOR EMBEDDING FOR UNSUPERVISED HYPERNYMY DETECTION 
-Haw-Shiuan Chang, Ziyun Wang, Luke Vilnis and Andrew McCallum
+Embedding Syntax And Semantics Of Prepositions Via Tensor Decomposition 
+Hongyu Gong, Suma Bhat And Pramod Viswanath
 
-EMBEDDING SYNTAX AND SEMANTICS OF PREPOSITIONS VIA TENSOR DECOMPOSITION 
-Hongyu Gong, Suma Bhat and Pramod Viswanath
+Fine-Grained Temporal Orientation And Its Relationship With Psycho-Demographic Correlates 
+Sabyasachi Kamila, Mohammed Hasanuzzaman, Asif Ekbal, Pushpak Bhattacharyya And Andy Way
 
+Global Relation Embedding For Relation Extraction ***
+Yu Su, Honglei Liu, Semih Yavuz, Izzeddin Gur, Huan Sun And Xifeng Yan
 
-FINE-GRAINED TEMPORAL ORIENTATION AND ITS RELATIONSHIP WITH PSYCHO-DEMOGRAPHIC CORRELATES 
-Sabyasachi Kamila, Mohammed Hasanuzzaman, Asif Ekbal, Pushpak Bhattacharyya and Andy Way
+Human Needs Categorization Of Affective Events Using Labeled And Unlabeled Data 
+Haibo Ding And Ellen Riloff
 
-GLOBAL RELATION EMBEDDING FOR RELATION EXTRACTION 
-Yu Su, Honglei Liu, Semih Yavuz, Izzeddin Gur, Huan Sun and Xifeng Yan
+Identifying The Most Dominant Event In A News Article By Mining Event Coreference Relations 
+Prafulla Kumar Choubey, Kaushik Raju And Ruihong Huang
 
+Implicit Argument Prediction With Event Knowledge 
+Pengxiang Cheng And Katrin Erk
 
+Joint Bootstrapping Machines For Relation Extraction 
+Pankaj Gupta And Hinrich Schütze
 
+Kbgan: Adversarial Learning For Knowledge Graph Embeddings 
+Liwei Cai And William Yang Wang
 
-HUMAN NEEDS CATEGORIZATION OF AFFECTIVE EVENTS USING LABELED AND UNLABELED DATA 
-Haibo Ding and Ellen Riloff
+Learning To Color From Language 
+Varun Manjunatha, Mohit Iyyer, Jordan Boyd-Graber And Larry Davis
 
+Learning To Map Context-Dependent Sentences To Executable Formal Queries 
+Alane Suhr, Srinivasan Iyer And Yoav Artzi
 
+Learning With Latent Language 
+Jacob Andreas And Dan Klein
 
-IDENTIFYING THE MOST DOMINANT EVENT IN A NEWS ARTICLE BY MINING EVENT COREFERENCE RELATIONS 
-Prafulla Kumar Choubey, Kaushik Raju and Ruihong Huang
+Mining Evidences For Concept Stock Recommendation 
+Qi Liu, Yue Zhang And Yumin Zhou
 
-IMPLICIT ARGUMENT PREDICTION WITH EVENT KNOWLEDGE 
-Pengxiang Cheng and Katrin Erk
+Nested Named Entity Recognition Revisited **
+Arzoo Katiyar And Claire Cardie
 
+Neural Fine-Grained Entity Type Classification With Hierarchy-Aware Loss 
+Peng Xu And Denilson Barbosa
 
-JOINT BOOTSTRAPPING MACHINES FOR RELATION EXTRACTION 
-Pankaj Gupta and Hinrich Schütze
+Querying Word Embeddings For Similarity And Relatedness 
+Fatemeh Torabi Asr, Robert Zinkov And Michael Jones
 
-KBGAN: ADVERSARIAL LEARNING FOR KNOWLEDGE GRAPH EMBEDDINGS 
-Liwei Cai and William Yang Wang
+Semantic Pleonasm Detection 
+Omid Kashefi, Andrew T. Lucas And Rebecca Hwa
 
-LEARNING TO COLOR FROM LANGUAGE 
-Varun Manjunatha, Mohit Iyyer, Jordan Boyd-Graber and Larry Davis
+Semi-Supervised Event Extraction With Paraphrase Clusters ***
+James Ferguson, Colin Lockard, Hannaneh Hajishirzi And Daniel Weld
 
-LEARNING TO MAP CONTEXT-DEPENDENT SENTENCES TO EXECUTABLE FORMAL QUERIES 
-Alane Suhr, Srinivasan Iyer and Yoav Artzi
+Slot-Gated Modeling For Joint Slot Filling And Intent Prediction 
+Chih-Wen Goo, Guang Gao, Yun-Kai Hsu, Chih-Li Huo, Tsung-Chieh Chen, Keng-Wei Hsu And Yun-Nung Chen
 
-LEARNING WITH LATENT LANGUAGE 
-Jacob Andreas and Dan Klein
+Structure Regularized Neural Network For Entity Relation Classification For Chinese Literature Text 
+Ji Wen, Xuancheng Ren, Xu Sun And Qi Su
 
-MINING EVIDENCES FOR CONCEPT STOCK RECOMMENDATION 
-Qi Liu, Yue Zhang and Yumin Zhou
+Supervised Open Information Extraction ***
+Gabriel Stanovsky, Julian Michael, Ido Dagan And Luke Zettlemoyer
 
+Syntactic Patterns Improve Information Extraction For Medical Search 
+Roma Patel, Yinfei Yang, Iain Marshall, Ani Nenkova And Byron Wallace
 
-NESTED NAMED ENTITY RECOGNITION REVISITED 
-Arzoo Katiyar and Claire Cardie
+Syntactically Aware Neural Architectures For Definition Extraction 
+Luis Espinosa Anke And Steven Schockaert
 
-NEURAL FINE-GRAINED ENTITY TYPE CLASSIFICATION WITH HIERARCHY-AWARE LOSS 
-Peng Xu and Denilson Barbosa
+Typesql: Knowledge-Based Type-Aware Neural Text-To-Sql Generation 
+Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang And Dragomir Radev
 
-QUERYING WORD EMBEDDINGS FOR SIMILARITY AND RELATEDNESS 
-Fatemeh Torabi Asr, Robert Zinkov and Michael Jones
-
-SEMANTIC PLEONASM DETECTION 
-Omid Kashefi, Andrew T. Lucas and Rebecca Hwa
-
-SEMI-SUPERVISED EVENT EXTRACTION WITH PARAPHRASE CLUSTERS 
-James Ferguson, Colin Lockard, Hannaneh Hajishirzi and Daniel Weld
-
-SLOT-GATED MODELING FOR JOINT SLOT FILLING AND INTENT PREDICTION 
-Chih-Wen Goo, Guang Gao, Yun-Kai Hsu, Chih-Li Huo, Tsung-Chieh Chen, Keng-Wei Hsu and Yun-Nung Chen
-
-
-STRUCTURE REGULARIZED NEURAL NETWORK FOR ENTITY RELATION CLASSIFICATION FOR CHINESE LITERATURE TEXT 
-Ji Wen, Xuancheng Ren, Xu Sun and Qi Su
-
-
-SUPERVISED OPEN INFORMATION EXTRACTION 
-Gabriel Stanovsky, Julian Michael, Ido Dagan and Luke Zettlemoyer
-
-SYNTACTIC PATTERNS IMPROVE INFORMATION EXTRACTION FOR MEDICAL SEARCH 
-Roma Patel, Yinfei Yang, Iain Marshall, Ani Nenkova and Byron Wallace
-
-SYNTACTICALLY AWARE NEURAL ARCHITECTURES FOR DEFINITION EXTRACTION 
-Luis Espinosa Anke and Steven Schockaert
-
-TYPESQL: KNOWLEDGE-BASED TYPE-AWARE NEURAL TEXT-TO-SQL GENERATION 
-Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang and Dragomir Radev
-
-VARIATIONAL KNOWLEDGE GRAPH REASONING 
-Wenhu Chen, Wenhan Xiong, Xifeng Yan and William Yang Wang
+Variational Knowledge Graph Reasoning 
+Wenhu Chen, Wenhan Xiong, Xifeng Yan And William Yang Wang
